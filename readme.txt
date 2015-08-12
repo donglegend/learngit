@@ -1,3 +1,3 @@
 Git is a distrivuted version control system.
 Git is free software.
-Git is back.
+Git has a mutable index called stage.
